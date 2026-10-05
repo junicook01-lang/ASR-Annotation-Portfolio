@@ -7,7 +7,7 @@
     "multiple_speakers": "Speaker_01",
       "foreign_language": "[]",
       "inaudible_audio": "[]",
-      "background_noise": "static",
+      "background_noise": "static"
     }
   ]
 }
